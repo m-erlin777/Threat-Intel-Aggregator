@@ -1,0 +1,18 @@
+# ======= Skeleton format ========
+
+# config.yaml
+
+# List of threat intel feeds (expand later)
+feeds:
+  - name:
+    url:
+    format:
+
+# Storage
+database:
+  path: "data/threatintel.deb
+
+# Logging
+logging:
+  level: "INFO"
+  file: "data/aggregator.log"
