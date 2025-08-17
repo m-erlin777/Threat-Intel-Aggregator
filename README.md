@@ -11,7 +11,21 @@ A Python-based tool designed to automatically fetch, parse, normalize, and store
 
 ### Installation:
 ```
-Placeholder
+1) Clone repo:
+
+git clone [<repo-url>](https://github.com/m-erlin777/Threat-Intel-Aggregator.git)
+cd threat-intel-aggregator
+
+2) Start venv:
+
+python -m venv venv
+source venv/bin/activate   # Linux/Mac
+venv\Scripts\activate      # Windows
+
+3) Install dependencies:
+
+pip install -r requirements.txt
+
 ```
 
 ### Configuration:
